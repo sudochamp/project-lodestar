@@ -2,6 +2,8 @@
 
 A real-time vehicle tracking system with performance monitoring capabilities, built with SvelteKit and designed for SARA-R5/STM32F hardware integration.
 
+![Pre-Alpha Dashboard Preview](images/project-lodestar-dashboard.png)
+
 ## Features
 
 ### Implemented
